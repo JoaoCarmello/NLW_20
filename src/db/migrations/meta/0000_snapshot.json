@@ -1,5 +1,5 @@
 {
-  "id": "828796ea-5b47-49f4-b867-076df1a33d0f",
+  "id": "b5169c49-1fb3-4971-9599-c97b08b9c3e4",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -21,8 +21,8 @@
           "primaryKey": false,
           "notNull": true
         },
-        "descriptiom": {
-          "name": "descriptiom",
+        "description": {
+          "name": "description",
           "type": "text",
           "primaryKey": false,
           "notNull": false
